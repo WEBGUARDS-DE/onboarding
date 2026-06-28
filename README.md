@@ -12,10 +12,9 @@
 
 ## Nach deinem Issue
 
-Du bekommst dann Zugang zu:
-- GitHub Team
-- n8n Workspace
-- Google Workspace
-- Projekt-Repos
+Du bekommst Zugang zu:
+- WEBGUARDS Team
+- WEBGUARDS HUB
+- Projekten
 
 Alle weiteren Infos findest du in den Docs.
