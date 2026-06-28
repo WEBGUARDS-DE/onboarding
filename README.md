@@ -1,19 +1,21 @@
+# WEBGUARDS Team
+
+## Tritt unserem Team bei
+
+| | |
+|---|---|
+| **Schritt 1** | 🔓 [GitHub Account erstellen](https://github.com/signup) |
+| **Schritt 2** | ✅ Diese Seite aufrufen |
+| **Schritt 3** | 💬 [Ein Issue öffnen](https://github.com/WEBGUARDS-DE/onboarding/issues/new?template=onboarding.md) |
 
 ---
 
-## 🚀 **[→ TEAM-ZUGANG ANFORDERN](https://github.com/WEBGUARDS-DE/onboarding/issues/new?template=onboarding.md)**
+## Nach deinem Issue
 
-Schreib ein Issue mit deinen Daten → wir nehmen dich auf.
+Du bekommst dann Zugang zu:
+- GitHub Team
+- n8n Workspace
+- Google Workspace
+- Projekt-Repos
 
----
-
-## 📋 Für Neulinge
-
-- [Schnelleinstieg](./docs/start.md)
-- [Tech-Stack](./docs/tech-stack.md)
-- [Prozesse](./docs/prozesse.md)
-- [FAQ](./docs/faq.md)
-
----
-
-**Weitere Fragen?** → [Issues](https://github.com/WEBGUARDS-DE/onboarding/issues)
+Alle weiteren Infos findest du in den Docs.
