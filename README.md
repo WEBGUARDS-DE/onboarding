@@ -13,8 +13,8 @@
 ## Nach deinem Issue
 
 Du bekommst Zugang zu:
-- WEBGUARDS Team
-- WEBGUARDS HUB
-- Projekten
+- **WEBGUARDS Team**
+- **WEBGUARDS HUB**
+- **Projekten**
 
 Alle weiteren Infos findest du in den Docs.
