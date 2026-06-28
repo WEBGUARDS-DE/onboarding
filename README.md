@@ -16,5 +16,3 @@ Du bekommst Zugang zu:
 - **WEBGUARDS Team**
 - **WEBGUARDS HUB**
 - **Projekten**
-
-Alle weiteren Infos findest du in den Docs.
