@@ -2,7 +2,15 @@
 
 Willkommen bei WEBGUARDS-DE.
 
-## 📋 Inhalte
+## 🚀 Du möchtest dabei sein?
+
+**[→ Öffne ein Onboarding-Issue](https://github.com/WEBGUARDS-DE/onboarding/issues/new?template=onboarding.md)**
+
+Wir nehmen deine GitHub-Daten, deine Rolle und Erfahrung auf → fertig.
+
+---
+
+## 📋 Inhalte (für Neulinge)
 
 - [Schnelleinstieg](./docs/start.md)
 - [Tech-Stack](./docs/tech-stack.md)
@@ -11,4 +19,4 @@ Willkommen bei WEBGUARDS-DE.
 
 ---
 
-Zuletzt aktualisiert: $(date +%Y-%m-%d)
+**Fragen?** → [Issues](https://github.com/WEBGUARDS-DE/onboarding/issues)
