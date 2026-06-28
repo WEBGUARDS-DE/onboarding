@@ -1,5 +1,3 @@
-# WEBGUARDS Team
-
 ## Tritt unserem Team bei
 
 | | |
